@@ -1,2 +1,2 @@
-# song_reccomender
+# song_recommender
 simple python song recommender 
